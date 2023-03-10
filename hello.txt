@@ -1,0 +1,8 @@
+public class hello
+{
+	public static void main(String args[])
+	{
+		System.println("Hello Welcome to Syit");
+		System.println("this is SET practical");
+	}
+}
